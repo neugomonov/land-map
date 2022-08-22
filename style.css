@@ -1,0 +1,176 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto|Roboto+Slab:500&display=swap");
+
+* {
+    user-select: none;
+    margin: 0;
+    padding: 0;
+    font-family: "Roboto", sans-serif;
+}
+
+.tooltip {
+    min-width: 170px;
+    margin: 10px;
+    box-shadow: 0px 0px 80px 0px rgba(0, 0, 0, 0.25);
+    position: absolute;
+    background: #fff;
+    padding: 15px;
+    border-radius: 15px;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    -ms-border-radius: 15px;
+    -o-border-radius: 15px;
+}
+
+/**************SVG************/
+.st0 {
+    fill: none;
+    stroke: #f9f0b5;
+    stroke-width: 3.685;
+    stroke-miterlimit: 10;
+}
+
+.st1 {
+    fill: #f9f0b5;
+}
+
+#mainRoad {
+    fill: rgb(219, 219, 156);
+}
+
+.st2 {
+    fill: #93c01f;
+}
+
+.st3 {
+    fill: #ffffff;
+    stroke: #b8b8b7;
+    stroke-miterlimit: 10;
+}
+
+.st4 {
+    fill: #88bbff;
+}
+
+.st5 {
+    fill: none;
+    stroke: #ff0000;
+    stroke-width: 0.2835;
+    stroke-miterlimit: 10;
+}
+
+.st6 {
+    fill: #ffffff;
+}
+
+.st66 {
+    fill: rgb(31, 108, 200);
+}
+
+.st7 {
+    font-family: "roboto", sans-serif;
+}
+
+.st8 {
+    font-size: 15px;
+}
+
+.st9 {
+    fill: #575756;
+}
+
+.st10 {
+    font-size: 7px;
+}
+
+.st12 {
+    fill: #52ae32;
+}
+
+.st13 {
+    fill: #fa4752;
+}
+
+.st14 {
+    fill: #1d70b7;
+}
+
+.st15 {
+    fill: #6a6a69;
+}
+
+.st16 {
+    font-size: 10px;
+}
+
+.st17 {
+    font-size: 12px;
+}
+
+.st18 {
+    font-family: "roboto slab", serif;
+    font-weight: bold;
+}
+
+.st19 {
+    font-size: 60px;
+}
+
+.st20 {
+    fill: rgb(0, 0, 0);
+}
+
+.st21 {
+    opacity: 0.7;
+    fill: #ffffff;
+}
+
+.st22 {
+    font-family: "roboto", sans-serif;
+    font-weight: bold;
+}
+
+.st23 {
+    font-size: 16px;
+}
+
+.st24 {
+    font-size: 5px;
+}
+
+.st25 {
+    transition: fill-opacity 0.2s;
+    fill: #d9d9d9;
+    fill-opacity: 0.5;
+    -webkit-transition: fill-opacity 0.2s;
+    -moz-transition: fill-opacity 0.2s;
+    -ms-transition: fill-opacity 0.2s;
+    -o-transition: fill-opacity 0.2s;
+
+    stroke: #fff;
+    stroke-opacity: 0;
+    stroke-width: 2px;
+}
+
+.st25:hover {
+    fill-opacity: 1;
+}
+
+#bogorodsk {
+    font-size: 15px;
+}
+
+#shargolee {
+    font-size: 15px;
+}
+
+.free {
+    fill: #52ae32;
+}
+
+.soldout {
+    fill: #fa4752;
+}
+
+.booked {
+    fill: #1d70b7;
+}
